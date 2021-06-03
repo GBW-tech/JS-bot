@@ -1,2 +1,1 @@
-# JS-bot
-This is my first bot ever made by me :)
+# made by GBW™#6828
